@@ -1,0 +1,1 @@
+import "./ribons/testEmail.cy.js"

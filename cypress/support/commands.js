@@ -1,0 +1,3 @@
+Cypress.Commands.add("fetchLatestEmail", ()=>{
+
+})
